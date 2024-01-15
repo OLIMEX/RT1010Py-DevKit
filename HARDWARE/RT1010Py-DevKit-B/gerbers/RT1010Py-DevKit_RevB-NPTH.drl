@@ -1,0 +1,29 @@
+M48
+; DRILL file {KiCad 5.1.0-rc2-unknown-036be7d~80~ubuntu16.04.1} date 17.06.2022 (пт) 14:26:00 EEST
+; FORMAT={-:-/ absolute / inch / decimal}
+; #@! TF.CreationDate,2022-06-17T14:26:00+03:00*
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,5.1.0-rc2-unknown-036be7d~80~ubuntu16.04.1
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
+FMAT,2
+INCH
+T1C0.0236
+T2C0.0472
+T3C0.1299
+%
+G90
+G05
+T1
+X2.9846Y-3.9512
+X2.9846Y-4.1788
+T2
+X3.26Y-4.905
+X3.56Y-4.905
+X4.08Y-4.905
+X4.38Y-4.905
+T3
+X2.8583Y-5.0787
+X4.7795Y-5.0787
+X2.8583Y-2.5039
+X4.7795Y-2.5039
+T0
+M30
